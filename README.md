@@ -30,3 +30,13 @@ Palindromo
 5 - Chiedo all'utente di inserire una parola
 6 - Con una condizione if else verifico se la parola è un palindromo
 
+Pari e dispari
+
+1 - Definisco una funzione senza parametro e senza valore di ritorno
+2 - Faccio inserire pari e dispari tramite un prompt
+3 - Faccio inserire un numero da 1 a 5 traite prompt
+4 - Creo una cost per generare il numero casuale 
+5 - Creo una cost per fare la somma 
+6 - Stabilisco se la somma è pari o dispari con una function 
+7 - Dichiaro chi ha vinto con un if else
+8 - Visualizzo il messaggio del risultato

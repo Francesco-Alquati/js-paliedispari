@@ -19,3 +19,14 @@ Scriviamo sempre solo un pezzetto di codice alla volta, se funziona allora andia
 Buon lavoro e buon divertimento! 
 
 SUDDIVIDO IL PROBLEMA IN SOTTOPROBLEMI 
+
+
+Palindromo
+
+1 - Definisco una funzione con parametro e con valore di ritorno
+2 - Converto i caratteri della parola minuscolo 
+3 - Creo gli indici
+4 - Creo un ciclo while per confrontare i caratteri da entrambe le estremità
+5 - Chiedo all'utente di inserire una parola
+6 - Con una condizione if else verifico se la parola è un palindromo
+

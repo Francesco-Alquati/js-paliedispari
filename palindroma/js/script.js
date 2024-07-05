@@ -25,8 +25,8 @@ let parola_utente = prompt("Inserisci una parola: ");
 
 // VERIFICO SE LA PAROLA è PALINDROMA
 if (verificaPalindromo(parola_utente)) {
-    console.log(parola_utente + " è un palindromo!");
+    alert(parola_utente + " è un palindromo!");
  } else {
-    console.log(parola_utente + " non è un palindromo.");
+    alert(parola_utente + " non è un palindromo.");
 }
 
